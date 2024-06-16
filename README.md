@@ -2,6 +2,8 @@
 
 ### Welcome to Plantify, the ultimate app for all your plant care needs! Whether you're a seasoned plant parent or just starting out, Plantify is here to make plant care easy, fun, and personalized just for you.
 
+![PLANTIFY](https://github.com/Kamal934/PLANTIFY/assets/110932441/c64db8ed-1b7a-45cf-992c-966d61eb9525)
+
 ## Key Functionalities 🌿
 ### Plant Identification 🌼
   Eliminate the guesswork! Identify unknown plants with ease using image       recognition or detailed descriptions.
